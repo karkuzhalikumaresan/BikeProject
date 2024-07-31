@@ -4,7 +4,7 @@ public class Ktm implements Bike{
 
 	@Override
 	public void cost() {
-		System.out.println("Cost : 100000");
+		System.out.println("Cost : 1000");
 	}
 
 	@Override
